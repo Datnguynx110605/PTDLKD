@@ -7,7 +7,3 @@ __pycache__/
 .coverage
 htmlcov/
 data/processed/
-reports/
-!reports/.gitkeep
-!reports/tables/.gitkeep
-!reports/figures/.gitkeep

@@ -1,0 +1,384 @@
+﻿product_id,product_name,sub_category,total_sales,total_profit,profit_margin,line_count,classification,classification_rule
+FUR-CH-10001215,Global Troy Executive Leather Low-Back Tilter,Chairs,12975.382,951.8620000000001,0.07335907335907337,9,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10004287,SAFCO Arco Folding Chair,Chairs,11572.78,1179.374,0.10190930787589499,13,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10000454,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",Chairs,10637.528,1927.4420000000002,0.18119266055045874,12,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10003973,GuestStacker Chair with Chrome Finish Legs,Chairs,9070.944,773.2608,0.08524590163934427,8,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10001854,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat,Chairs,8774.5,1305.6456,0.14880000000000002,8,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10004063,Global Deluxe High-Back Manager's Chair,Chairs,8665.194,1558.591,0.17986798679867988,8,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10004086,Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs,Chairs,8430.997,1388.6348,0.1647058823529412,8,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10003379,Global Commerce Series High-Back Swivel/Tilt Chairs,Chairs,7979.4400000000005,926.1850000000001,0.11607142857142858,9,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10002331,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms,Chairs,7582.374,832.9932000000001,0.10985915492957748,6,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10002545,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",Bookcases,7539.712200000001,780.3302000000001,0.10349601938386985,8,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10002335,Hon GuestStacker Chair,Chairs,6936.102,1233.0848,0.17777777777777778,9,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10003569,Bretford CR8500 Series Meeting Room Furniture,Tables,6776.562000000001,461.12700000000007,0.06804733727810651,6,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10004997,Hon Every-Day Series Multi-Task Chairs,Chairs,6748.481999999999,281.96999999999997,0.04178272980501393,10,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10000015,Hon Multipurpose Stacking Arm Chairs,Chairs,6584.639999999999,814.4159999999999,0.12368421052631579,6,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10002320,Hon Pagoda Stacking Chairs,Chairs,6483.796,1540.704,0.2376237623762376,4,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10004495,"Global Leather and Oak Executive Chair, Black",Chairs,6410.874,854.7832000000001,0.13333333333333336,8,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10000309,Global Comet Stacking Arm Chair,Chairs,6084.143999999999,697.1415,0.11458333333333334,5,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10000785,Global Ergonomic Managers Chair,Chairs,6008.536,785.4532,0.13072289156626507,11,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10002965,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",Chairs,5989.204000000001,267.3034,0.04463087248322147,11,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10003746,Hon 4070 Series Pagoda Round Back Stacking Chairs,Chairs,5906.032,1052.8144,0.1782608695652174,7,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10001394,Global Leather Executive Chair,Chairs,5861.533,701.9799999999999,0.11976047904191614,7,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10000595,Safco Contoured Stacking Chairs,Chairs,5697.76,870.16,0.1527196652719665,8,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10002073,Hon Olson Stacker Chairs,Chairs,5427.99,1292.1264,0.2380487804878049,4,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10000988,Hon Olson Stacker Stools,Chairs,5294.456,833.5951999999999,0.15744680851063828,10,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10004675,"Lifetime Advantage Folding Chairs, 4/Carton",Chairs,5212.112,972.6368,0.18661087866108786,7,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10004695,O'Sullivan 2-Door Barrister Bookcase in Odessa Pine,Bookcases,4886.46,566.4674,0.11592592592592592,7,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10000847,Global Executive Mid-Back Manager's Chair,Chairs,4626.582,750.7284,0.16226415094339622,6,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10002602,DMI Arturo Collection Mission-style Design Wood Chair,Chairs,4619.987999999999,486.1556,0.10522875816993466,11,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10000617,"Hon Practical Foundations 30 x 60 Training Table, Light Gray/Charcoal",Tables,4334.8275,430.0695,0.09921259842519685,6,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10003748,Bevis 36 x 72 Conference Tables,Tables,4332.2519999999995,448.164,0.10344827586206898,8,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10004983,Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms,Chairs,4185.48,342.88739999999996,0.08192307692307692,5,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10001708,Office Star - Contemporary Swivel Chair with Padded Adjustable Arms and Flex Back,Chairs,3989.7340000000004,425.7596,0.1067137809187279,7,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10000665,"Global Airflow Leather Mesh Back Chair, Black",Chairs,3955.676,573.7239999999999,0.1450381679389313,9,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000576,Luxo Professional Fluorescent Magnifier Lamp with Clamp-Mount Base,Furnishings,3861.056,289.5791999999999,0.07499999999999997,5,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10004619,Hon Non-Folding Utility Tables,Tables,3775.647,541.654,0.14345991561181434,5,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10001307,"SAFCO PlanMaster Heigh-Adjustable Drafting Table Base, 43w x 30d x 30-37h, Black",Tables,3739.1150000000002,608.043,0.16261682242990652,5,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10002647,"Situations Contoured Folding Chairs, 4/Set",Chairs,3641.2740000000003,234.23400000000004,0.06432748538011697,15,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10001771,"Bush Cubix Conference Tables, Fully Assembled",Tables,3603.2880000000005,311.82300000000004,0.08653846153846154,4,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10003392,Global Adaptabilities Conference Tables,Tables,3540.348,354.0348000000001,0.10000000000000002,4,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10000155,Global Comet Stacking Armless Chair,Chairs,3528.790000000001,514.366,0.14576271186440673,6,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10003404,"Global Adaptabilites Bookcase, Cherry/Storm Gray Finish",Bookcases,3447.84,206.87040000000002,0.060000000000000005,2,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10001705,Bush Advantage Collection Round Conference Table,Tables,3401.6000000000004,210.47400000000002,0.061875,4,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10000688,"Chromcraft Bull-Nose Wood Round Conference Table Top, Wood Base",Tables,3354.8900000000003,100.21100000000001,0.02987012987012987,6,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10004015,"Bush Andora Bookcase, Maple/Graphite Gray Finish",Bookcases,3317.7235,135.5887,0.04086799276672694,9,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10004218,"Global Fabric Manager's Chair, Dark Gray",Chairs,3150.576,499.851,0.15865384615384615,9,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10004853,"Global Manager's Adjustable Task Chair, Storm",Chairs,2959.208,493.7046,0.16683673469387755,6,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003664,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",Furnishings,2863.8,627.1722000000001,0.21900000000000003,5,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004306,Electrix Halogen Magnifier Lamp,Furnishings,2759.06,314.76599999999996,0.11408450704225351,6,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10002084,Hon Mobius Operator's Chair,Chairs,2705.7799999999997,499.3394,0.18454545454545457,5,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002937,"GE 48"" Fluorescent Tube, Cool White Energy Saver, 34 Watts, 30/Box",Furnishings,2699.0559999999996,1260.221,0.4669117647058824,8,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10002916,"Rush Hierlooms Collection 1"" Thick Stackable Bookcases",Bookcases,2487.759,410.352,0.16494845360824742,4,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10001270,Harbour Creations Steel Folding Chair,Chairs,2389.125,336.375,0.1407942238267148,8,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10002855,Bevis Round Conference Table Top & Single Column Base,Tables,2297.538,100.97460000000001,0.043949044585987265,5,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001488,"Tenex 46"" x 60"" Computer Anti-Static Chairmat, Rectangular Shaped",Furnishings,2267.9719999999998,148.372,0.06542056074766356,7,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10000749,Office Star - Ergonomic Mid Back Chair with 2-Way Adjustable Arms,Chairs,2207.956,231.6544,0.10491803278688525,2,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10003817,"Global Value Steno Chair, Gray",Chairs,2204.8619999999996,245.99699999999999,0.11157024793388431,10,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004665,"3M Polarizing Task Lamp with Clamp Arm, Light Gray",Furnishings,2191.68,569.8368,0.26000000000000006,4,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10004477,"Global Push Button Manager's Chair, Indigo",Chairs,2185.951,283.74739999999997,0.1298050139275766,9,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10000362,Sauder Inglewood Library Bookcases,Bookcases,2154.348,311.1836,0.14444444444444446,5,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10001146,"Global Value Mid-Back Manager's Chair, Gray",Chairs,1978.9250000000002,197.8925,0.09999999999999999,10,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10004626,Office Star Flex Back Scooter Chair with Aluminum Finish Frame,Chairs,1947.177,413.649,0.21243523316062177,6,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10003199,Office Star - Contemporary Task Swivel Chair,Chairs,1842.268,155.372,0.08433734939759037,6,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10004698,"Padded Folding Chairs, Black, 4/Carton",Chairs,1830.1480000000001,80.97999999999999,0.04424778761061946,8,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10004886,Bevis Steel Folding Chairs,Chairs,1775.075,117.059,0.06594594594594594,6,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000277,Deflect-o DuraMat Antistatic Studded Beveled Mat for Medium Pile Carpeting,Furnishings,1685.44,244.3888,0.145,5,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004864,"Howard Miller 14-1/2"" Diameter Chrome Round Wall Clock",Furnishings,1636.8639999999998,375.9672,0.22968750000000002,7,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10002439,"Iceberg Nesting Folding Chair, 19w x 6d x 43h",Chairs,1589.406,253.83920000000003,0.15970695970695972,6,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000308,Deflect-o Glass Clear Studded Chair Mats,Furnishings,1579.3719999999998,318.3616,0.20157480314960632,7,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003192,Luxo Adjustable Task Clamp Lamp,Furnishings,1545.816,362.4672,0.23448275862068965,4,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10004875,Harbour Creations 67200 Series Stacking Chairs,Chairs,1501.898,254.8244,0.16966824644549763,8,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10003441,"Bush Westfield Collection Bookcases, Fully Assembled",Bookcases,1473.2982000000002,73.71539999999999,0.05003427004797805,6,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10003061,"Global Leather Task Chair, Black",Chairs,1448.839,63.8929,0.044099378881987575,8,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10002961,"Leather Task Chair, Black",Chairs,1437.484,54.588,0.0379746835443038,6,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000293,Eldon Antistatic Chair Mats for Low to Medium Pile Carpets,Furnishings,1431.944,46.3276,0.032352941176470584,4,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10001891,Global Deluxe Office Fabric Chairs,Chairs,1420.5040000000001,229.3922,0.16148648648648647,6,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004188,Luxo Professional Combination Clamp-On Lamps,Furnishings,1329.8999999999999,345.774,0.26,5,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004848,"Howard Miller 13-3/4"" Diameter Brushed Chrome Round Wall Clock",Furnishings,1324.8,201.82500000000002,0.15234375000000003,9,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003708,"Tenex Traditional Chairmats for Medium Pile Carpet, Standard Lip, 36"" x 48""",Furnishings,1322.1699999999998,172.246,0.1302752293577982,6,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10002598,"Hon Metal Bookcases, Putty",Bookcases,1320.228,362.7078000000001,0.27473118279569897,5,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004071,Luxo Professional Magnifying Clamp-On Fluorescent Lamps,Furnishings,1268.922,106.09020000000001,0.08360655737704918,4,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10002758,"Hon Deluxe Fabric Upholstered Stacking Chairs, Squared Back",Chairs,1268.696,73.194,0.057692307692307696,2,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10003846,Hon Valutask Swivel Chairs,Chairs,1242.0539999999999,139.3524,0.11219512195121951,4,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10004147,Hon 4060 Series Tables,Tables,1231.56,96.2856,0.07818181818181819,4,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000965,"Howard Miller 11-1/2"" Diameter Ridgewood Wall Clock",Furnishings,1184.232,448.76159999999993,0.3789473684210526,6,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10001519,O'Sullivan 3-Shelf Heavy-Duty Bookcases,Bookcases,1119.195,147.0942,0.13142857142857145,5,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001979,Dana Halogen Swing-Arm Architect Lamp,Furnishings,1114.384,288.4288,0.25882352941176473,6,Grow,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10004690,O'Sullivan Cherrywood Estates Traditional Barrister Bookcase,Bookcases,1072.344,-78.36359999999999,-0.07307692307692307,2,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10000330,"Sauder Camden County Barrister Bookcase, Planked Cherry Finish",Bookcases,1064.624,24.196,0.022727272727272728,3,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10003469,Balt Split Level Computer Training Table,Tables,1040.625,-357.975,-0.34400000000000003,5,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10001918,"Sauder Forest Hills Library with Doors, Woodland Oak Finish",Bookcases,1014.174,-418.548,-0.41269841269841273,3,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10000849,Bevis Rectangular Conference Tables,Tables,1007.262,-586.8396,-0.582608695652174,4,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004904,"Eldon ""L"" Workstation Diamond Chairmat",Furnishings,1002.936,-267.44960000000003,-0.26666666666666666,4,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10001802,Hon Every-Day Chair Series Swivel Task Chairs,Chairs,967.8399999999999,12.097999999999999,0.0125,3,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10001601,"Sauder Mission Library with Doors, Fruitwood Finish",Bookcases,935.1972,-125.74080000000001,-0.13445378151260506,3,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10003956,Novimex High-Tech Fabric Mesh Task Chair,Chairs,922.74,-133.4424,-0.14461538461538462,4,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10004442,Riverside Furniture Stanwyck Manor Table Series,Tables,917.92,-415.9325,-0.453125,3,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10004409,"Safco Value Mate Series Steel Bookcases, Baked Enamel Finish on Steel, Gray",Bookcases,858.858,-9.93719999999999,-0.011570247933884286,6,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10001857,Balt Solid Wood Rectangular Table,Tables,828.0964999999999,-216.2545,-0.2611464968152867,4,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10000112,"Bush Birmingham Collection Bookcase, Dark Cherry",Bookcases,825.174,-117.882,-0.14285714285714288,1,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10004540,Global Chrome Stack Chair,Chairs,815.8639999999999,15.0832,0.018487394957983194,6,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002116,"Tenex Carpeted, Granite-Look or Clear Contemporary Contour Shape Chair Mats",Furnishings,763.6679999999999,-222.7365,-0.29166666666666674,5,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10002268,Sauder Barrister Bookcases,Bookcases,754.7336,-294.7672,-0.3905579399141631,3,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10000468,O'Sullivan 2-Shelf Heavy-Duty Bookcases,Bookcases,723.842,-133.1092,-0.18389261744966443,6,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10002044,"Office Star - Contemporary Task Swivel chair with 2-way adjustable arms, Plum",Chairs,694.194,-158.48579999999998,-0.2283018867924528,2,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10001676,Hon 61000 Series Interactive Training Tables,Tables,653.1209999999999,-148.39619999999996,-0.22721088435374148,9,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10003450,"Bush Westfield Collection Bookcases, Dark Cherry Finish",Bookcases,649.376,-97.4064,-0.15000000000000002,3,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10002853,O'Sullivan 5-Shelf Heavy-Duty Bookcases,Bookcases,540.804,-12.290999999999997,-0.02272727272727272,4,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10001866,Bevis Round Conference Room Tables and Bases,Tables,519.941,-39.4438,-0.07586206896551724,2,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10004360,Rush Hierlooms Collection Rich Wood Bookcases,Bookcases,489.37919999999997,-70.8312,-0.14473684210526316,2,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000193,Tenex Chairmats For Use with Hard Floors,Furnishings,467.71199999999993,-129.92,-0.2777777777777778,6,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10001146,"Global Task Chair, Black",Chairs,463.09900000000005,-80.4062,-0.1736263736263736,5,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10002202,"Atlantic Metals Mobile 2-Shelf Bookcases, Custom Colors",Bookcases,400.0268,-113.2606,-0.28313253012048195,2,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004622,Eldon Advantage Foldable Chair Mats for Low Pile Carpets,Furnishings,379.4,-48.78,-0.1285714285714286,3,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003247,36X48 HARDFLOOR CHAIRMAT,Furnishings,369.248,-40.49139999999999,-0.10965909090909089,6,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004597,Eldon Cleatmat Chair Mats for Medium Pile Carpets,Furnishings,344.09999999999997,-42.18000000000001,-0.12258064516129036,4,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10003433,Sauder Cornerstone Collection Library,Bookcases,322.19199999999995,-81.16760000000001,-0.25192307692307697,3,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001756,"Eldon Expressions Desk Accessory, Wood Photo Frame, Mahogany",Furnishings,262.75199999999995,-7.616000000000003,-0.02898550724637683,6,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002703,"Tenex Traditional Chairmats for Hard Floors, Average Lip, 36"" x 48""",Furnishings,180.46,-46.403999999999996,-0.2571428571428571,2,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004587,"GE General Use Halogen Bulbs, 100 Watts, 1 Bulb per Pack",Furnishings,163.332,3.141000000000002,0.019230769230769242,3,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001967,Telescoping Adjustable Floor Lamp,Furnishings,143.928,-5.997000000000002,-0.04166666666666668,6,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10002206,"Bush Saratoga Collection 5-Shelf Bookcase, Hanover Cherry, *Special Order",Bookcases,119.833,-12.6882,-0.10588235294117647,1,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002553,"Electrix Incandescent Magnifying Lamp, Black",Furnishings,117.28,-16.4925,-0.140625,2,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001546,Dana Swing-Arm Lamps,Furnishings,108.93599999999998,-11.213999999999997,-0.10294117647058823,7,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003919,Eldon Executive Woodline II Cherry Finish Desk Accessories,Furnishings,98.13600000000001,-78.5088,-0.7999999999999998,2,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002030,"Executive Impressions 14"" Contract Wall Clock with Quartz Movement",Furnishings,97.812,-1.7783999999999978,-0.01818181818181816,2,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002506,"Tensor ""Hersey Kiss"" Styled Floor Lamp",Furnishings,93.52799999999999,2.0784000000000002,0.022222222222222227,3,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10001567,"Bush Westfield Collection Bookcases, Dark Cherry Finish, Fully Assembled",Bookcases,90.882,-190.8522,-2.1,1,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001379,"Executive Impressions 16-1/2"" Circular Wall Clock",Furnishings,58.784,-1.0687999999999995,-0.018181818181818174,2,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10003837,Anderson Hickey Conga Table Tops & Accessories,Tables,51.782,-17.514499999999998,-0.338235294117647,2,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004415,"Stacking Tray, Side-Loading, Legal, Smoke",Furnishings,46.592000000000006,-2.8672,-0.06153846153846153,4,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002505,Eldon 100 Class Desk Accessories,Furnishings,36.396,-4.852800000000001,-0.13333333333333336,4,Rationalize,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10002024,HON 5400 Series Task Chairs for Big and Tall,Chairs,21870.576,5.684341886080802e-14,2.599081929109138e-18,8,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10004834,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",Bookcases,15610.9656,-669.5448000000004,-0.04288939051918738,5,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10003473,Bretford Rectangular Conference Table Tops,Tables,12995.2915,-327.23309999999975,-0.025180897250361777,12,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10002213,DMI Eclipse Executive Suite Bookcases,Bookcases,11046.609,90.17640000000002,0.00816326530612245,6,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10000198,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,Tables,9917.64,-2876.1156,-0.29000000000000004,5,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10001889,Bush Advantage Collection Racetrack Conference Table,Tables,9544.725,-1934.3975999999998,-0.20266666666666663,7,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10001095,Chromcraft Round Conference Tables,Tables,8209.059,-189.97610000000006,-0.02314225053078557,13,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10003954,Hon 94000 Series Round Tables,Tables,7404.5,-681.2139999999999,-0.092,5,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10000577,Bretford CR4500 Series Slim Rectangular Table,Tables,7242.768,-532.7613,-0.07355769230769231,8,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10002958,"Bevis Oval Conference Table, Walnut",Tables,6942.067999999999,-856.0144,-0.12330827067669174,8,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10001950,Balt Solid Wood Round Tables,Tables,6518.754,-1201.0581,-0.18424657534246575,4,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10004575,Hon 5100 Series Wood Tables,Tables,5965.09,-238.60359999999997,-0.039999999999999994,7,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10004915,"Office Impressions End Table, 20-1/2""H x 24""W x 20""D",Tables,5801.815999999999,-66.82720000000002,-0.011518324607329848,5,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10004256,Bretford ÒJust In TimeÓ Height-Adjustable Multi-Task Work Tables,Tables,5634.9,-964.194,-0.1711111111111111,4,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10001811,"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",Bookcases,5492.885,15.049000000000007,0.002739726027397261,8,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10002880,"Global High-Back Leather Tilter, Burgundy",Chairs,5436.158,-474.74139999999994,-0.08733031674208143,14,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10003312,Hon 2090 ÒPillow SoftÓ Series Mid Back Swivel/Tilt Chairs,Chairs,5282.424,-989.0495999999999,-0.18723404255319148,6,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10002613,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",Bookcases,5184.081,-126.44100000000005,-0.024390243902439032,6,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10001932,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",Tables,5098.1759999999995,-404.00640000000004,-0.07924528301886793,6,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10001539,Chromcraft Rectangular Conference Tables,Tables,4952.673,-450.243,-0.09090909090909091,9,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10000513,High-Back Leather Manager's Chair,Chairs,4770.633,-197.58480000000003,-0.041416893732970035,9,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10002903,"Bevis Round Bullnose 29"" High Table Top",Tables,4544.924999999999,-192.18540000000002,-0.042285714285714295,5,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10004154,"Riverside Furniture Oval Coffee Table, Oval End Table, End Table with Drawer",Tables,4446.175,-1147.4,-0.25806451612903225,5,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10003981,Global Commerce Series Low-Back Swivel/Tilt Chairs,Chairs,4420.0560000000005,41.1168,0.009302325581395347,7,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10003238,"Chromcraft Bull-Nose Wood 48"" x 96"" Rectangular Conference Tables",Tables,4297.644,-611.5878,-0.1423076923076923,6,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10003774,"Global Wood Trimmed Manager's Task Chair, Khaki",Chairs,4166.884,-503.1194,-0.12074235807860262,14,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10001768,Hon Racetrack Conference Tables,Tables,3963.901,-598.5228,-0.1509933774834437,6,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10003298,"Office Star - Contemporary Task Swivel chair with Loop Arms, Charcoal",Chairs,3680.5379999999996,-491.17499999999995,-0.13345195729537368,9,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10004218,"Bush Heritage Pine Collection 5-Shelf Bookcase, Albany Pine Finish, *Special Order",Bookcases,3626.0056,-208.6504,-0.05754276827371695,8,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10002645,Hon Rectangular Conference Tables,Tables,3481.515,-295.815,-0.08496732026143791,4,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10002530,"Iceberg OfficeWorks 42"" Round Tables",Tables,3457.4419999999996,-392.54800000000006,-0.11353711790393016,7,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10003272,O'Sullivan Living Dimensions 5-Shelf Bookcases,Bookcases,3420.7704000000003,-755.7516,-0.22093023255813954,6,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001468,Tenex Antistatic Computer Chair Mats,Furnishings,3317.0119999999997,-530.0379999999999,-0.15979381443298968,6,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10004534,Bevis 44 x 96 Conference Tables,Tables,3253.2200000000003,-164.72000000000003,-0.05063291139240507,5,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10003715,Hon 2111 Invitation Series Corner Table,Tables,3140.5499999999997,-401.9904,-0.12800000000000003,4,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10001086,"SAFCO PlanMaster Boards, 60w x 37-1/2d, White Melamine",Tables,2979.004,54.71640000000002,0.01836734693877552,5,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10001337,O'Sullivan Living Dimensions 2-Shelf Bookcases,Bookcases,2970.059,-78.637,-0.026476578411405292,10,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10000780,O'Sullivan Plantations 2-Door Library in Landvery Oak,Bookcases,2946.3668000000007,-767.7436,-0.26057298772169163,5,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10000863,Novimex Swivel Fabric Task Chair,Chairs,2913.9139999999998,-445.391,-0.1528497409326425,8,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10004357,O'Sullivan Living Dimensions 3-Shelf Bookcases,Bookcases,2904.1609999999996,-170.83299999999997,-0.058823529411764705,4,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10003008,"Lesro Round Back Collection Coffee Table, End Table",Tables,2847.7799999999997,-328.59,-0.11538461538461539,8,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10001039,KI Adjustable-Height Table,Tables,2764.2570000000005,-226.12739999999997,-0.08180404354587867,11,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10001972,O'Sullivan 4-Shelf Bookcase in Odessa Pine,Bookcases,2740.197,-975.0988,-0.355849889624724,7,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10002041,"Bevis Round Conference Table Top, X-Base",Tables,2671.421,-519.941,-0.1946308724832215,6,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10000422,Global Highback Leather Tilter in Burgundy,Chairs,2647.809,49.13459999999999,0.01855670103092783,9,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10002126,Hon Deluxe Fabric Upholstered Stacking Chairs,Chairs,2586.1879999999996,-48.796,-0.01886792452830189,4,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10002356,Bevis Boat-Shaped Conference Table,Tables,2542.4669999999996,-445.587,-0.1752577319587629,6,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10004289,Global Super Steno Chair,Chairs,2389.9020000000005,-1.7763568394002505e-15,-7.43276016924648e-19,7,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10001520,"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",Tables,2298.1140000000005,-12.132900000000005,-0.005279503105590063,9,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10002533,BPI Conference Tables,Tables,2241.8675,-795.9725000000001,-0.35504885993485347,5,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10001482,Office Star - Mesh Screen back chair with Vinyl seat,Chairs,2200.464,-130.98000000000002,-0.059523809523809534,7,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10002607,KI Conference Tables,Tables,2140.878,-479.2164,-0.223841059602649,8,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10002774,Laminate Occasional Tables,Tables,2096.168,-206.5342,-0.09852941176470588,3,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002298,"Rubbermaid ClusterMat Chairmats, Mat Size- 66"" x 60"", Lip 20"" x 11"" -90 Degree Angle",Furnishings,2064.2279999999996,-173.12879999999998,-0.08387096774193549,5,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003806,"Tenex Chairmat w/ Average Lip, 45"" x 53""",Furnishings,2058.496,-529.76,-0.25735294117647056,4,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10004607,Hon 2111 Invitation Series Straight Table,Tables,2040.054,-115.3074,-0.05652173913043478,7,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10002228,"Bevis Traditional Conference Table Top, Plinth Base",Tables,2033.496,-456.7032,-0.2245901639344262,3,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10000229,Global Enterprise Series Seating High-Back Swivel/Tilt Chairs,Chairs,2032.3500000000001,-460.666,-0.22666666666666666,4,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10003034,"O'Sullivan Elevations Bookcase, Cherry Finish",Bookcases,1912.308,-68.1096,-0.03561643835616438,5,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10003159,"Sauder Camden County Collection Libraries, Planked Cherry Finish",Bookcases,1909.8178000000003,-78.18639999999999,-0.04093919325707404,7,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10004467,Bestar Classic Bookcase,Bookcases,1897.8102000000001,-612.9386999999999,-0.3229715489989462,8,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10003833,Novimex Fabric Task Chair,Chairs,1890.3799999999999,-131.107,-0.06935483870967743,9,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10002213,"Sauder Forest Hills Library, Woodland Oak Finish",Bookcases,1875.034,-70.49,-0.03759398496240601,4,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10004086,KI Adjustable-Height Table,Tables,1788.3840000000002,-22.35479999999999,-0.012499999999999992,7,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10001973,Office Star Flex Back Scooter Chair with White Frame,Chairs,1775.6800000000003,-228.6188,-0.12874999999999998,7,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10003396,Global Deluxe Steno Chair,Chairs,1770.54,-216.3138,-0.12217391304347826,10,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10000225,"Global Geo Office Task Chair, Gray",Chairs,1757.266,-166.00900000000001,-0.09447004608294932,7,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10004860,Global Low Back Tilter Chair,Chairs,1746.9540000000002,-246.39119999999997,-0.14104046242774562,8,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10004289,BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables,Tables,1706.25,-1148.4375,-0.6730769230769231,3,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10001714,"Global Leather & Oak Executive Chair, Burgundy",Chairs,1689.968,-114.6764,-0.06785714285714285,5,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10001545,Hon Comfortask Task/Swivel Chairs,Chairs,1686.904,-36.473600000000005,-0.021621621621621623,6,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10003965,O'Sullivan Manor Hill 2-Door Library in Brianna Oak,Bookcases,1646.9180000000001,-285.9484,-0.17362637362637362,4,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003601,"Deflect-o RollaMat Studded, Beveled Mat for Medium Pile Carpeting",Furnishings,1623.2480000000003,-343.09560000000005,-0.21136363636363636,6,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10001608,"Hon Metal Bookcases, Black",Bookcases,1570.0775999999998,-26.972399999999993,-0.01717902350813743,5,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10003546,Hon 4-Shelf Metal Bookcases,Bookcases,1474.308,-191.86200000000005,-0.1301369863013699,4,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003394,"Tenex ""The Solids"" Textured Chair Mats",Furnishings,1469.1599999999999,-40.57679999999998,-0.027619047619047606,7,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10002622,"Bush Andora Conference Table, Maple/Graphite Gray Finish",Tables,1436.232,-143.62319999999997,-0.09999999999999998,4,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10003966,"Sauder Facets Collection Library, Sky Alder Finish",Bookcases,1427.683,-8.548999999999992,-0.005988023952095803,4,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10004709,"Bush Westfield Collection Bookcases, Medium Cherry Finish",Bookcases,1426.8878,-20.293000000000006,-0.014221861032100777,9,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10003535,"Global Armless Task Chair, Royal Blue",Chairs,1396.442,-20.733200000000004,-0.014847161572052405,8,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10003893,Sauder Camden County Collection Library,Bookcases,1368.2620000000002,-103.482,-0.07563025210084033,2,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10003968,Novimex Turbo Task Chair,Chairs,1341.522,-32.6508,-0.024338624338624337,6,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10002372,Office Star - Ergonomically Designed Knee Chair,Chairs,1311.8760000000002,-42.1096,-0.03209876543209876,7,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003773,Eldon Cleatmat Plus Chair Mats for High Pile Carpets,Furnishings,1304.128,-111.328,-0.08536585365853659,5,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10004175,"Hon 30"" x 60"" Table with Locking Drawer",Tables,1296.028,-177.3512,-0.1368421052631579,3,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10001798,Bush Somerset Collection Bookcase,Bookcases,1263.9569999999999,-56.3214,-0.04455958549222798,4,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002918,Eldon ClusterMat Chair Mat with Cordless Antistatic Protection,Furnishings,1200.9360000000001,-256.5636,-0.21363636363636362,5,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000723,"Deflect-o EconoMat Studded, No Bevel Mat for Low Pile Carpeting",Furnishings,1115.64,-125.1996,-0.11222222222222221,9,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10004152,"Barricks 18"" x 48"" Non-Folding Utility Table with Bottom Storage Shelf",Tables,1088.6399999999999,-104.83200000000001,-0.09629629629629631,5,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10001190,Global Deluxe High-Back Office Chair in Storm,Chairs,1087.92,-149.589,-0.13749999999999998,3,Repair,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002253,"Howard Miller 13"" Diameter Pewter Finish Round Wall Clock",Furnishings,1047.7359999999999,340.5142,0.32500000000000007,7,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004091,"Howard Miller 13"" Diameter Goldtone Round Wall Clock",Furnishings,1042.068,294.3138,0.28243243243243243,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004017,"Tenex Contemporary Contur Chairmats for Low and Medium Pile Carpet, Computer, 39"" x 49""",Furnishings,1010.7819999999999,150.542,0.14893617021276598,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000747,Tenex B1-RE Series Chair Mats for Low Pile Carpets,Furnishings,1002.3639999999999,124.6058,0.1243119266055046,7,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10003761,Global Italian Leather Office Chair,Chairs,969.252,204.3288,0.21081081081081082,2,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003553,"Howard Miller 13-1/2"" Diameter Rosebrook Wall Clock",Furnishings,949.026,247.57199999999997,0.2608695652173913,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10002304,"Global Stack Chair without Arms, Black",Chairs,901.506,44.166,0.04899135446685879,7,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10001797,"Safco Chair Connectors, 6/Carton",Chairs,881.192,170.8512,0.19388646288209607,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001290,Executive Impressions Supervisor Wall Clock,Furnishings,867.2599999999999,266.072,0.3067961165048544,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10000711,"Hon Metal Bookcases, Gray",Bookcases,851.76,229.9752,0.27,2,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001185,"Advantus Employee of the Month Certificate Frame, 11 x 13-1/2",Furnishings,822.7379999999999,311.7744,0.3789473684210527,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10004754,"Global Stack Chair with Arms, Black",Chairs,803.464,125.0166,0.15559701492537312,7,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10003894,"Safco Value Mate Steel Bookcase, Baked Enamel Finish on Steel, Black",Bookcases,802.0740000000001,106.47,0.1327433628318584,3,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003930,Howard Miller 12-3/4 Diameter Accuwave DS  Wall Clock,Furnishings,786.9,147.9372,0.188,2,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003268,Eldon Radial Chair Mat for Low to Medium Pile Carpets,Furnishings,775.6120000000001,135.932,0.17525773195876285,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10002774,"Global Deluxe Stacking Chair, Gray",Chairs,764.6999999999999,76.9798,0.10066666666666667,7,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10002824,Bush Mission Pointe Library,Bookcases,748.8607999999999,24.156800000000004,0.03225806451612904,3,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10003660,"Bush Cubix Collection Bookcases, Fully Assembled",Bookcases,729.2339999999999,48.6156,0.06666666666666668,3,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10003606,SAFCO Folding Chair Trolley,Chairs,705.32,151.3232,0.21454545454545454,3,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004845,"Deflect-o EconoMat Nonstudded, No Bevel Mat",Furnishings,702.4399999999999,123.96,0.17647058823529413,3,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10000553,"Metal Folding Chairs, Beige, 4/Carton",Chairs,685.588,115.7354,0.16881188118811882,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001215,"Howard Miller 11-1/2"" Diameter Brentwood Wall Clock",Furnishings,681.454,256.1922,0.37594936708860766,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004973,Flat Face Poster Frame,Furnishings,678.2399999999999,120.9528,0.17833333333333334,12,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004006,"Deflect-o DuraMat Lighweight, Studded, Beveled Mat for Low Pile Carpeting",Furnishings,673.87,72.07849999999999,0.10696202531645568,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10004767,Safco Drafting Table,Tables,638.8199999999999,34.0704,0.05333333333333334,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001876,"Computer Room Manger, 14""",Furnishings,636.608,179.2896,0.28163265306122454,7,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10002780,Office Star - Task Chair with Contemporary Loop Arms,Chairs,600.4680000000001,47.3096,0.07878787878787878,2,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001986,"Dana Fluorescent Magnifying Lamp, White, 36""",Furnishings,581.172,81.568,0.14035087719298245,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004748,"Howard Miller 16"" Diameter Gallery Wall Clock",Furnishings,575.46,107.41919999999999,0.18666666666666665,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003975,Eldon Advantage Chair Mats for Low to Medium Pile Carpets,Furnishings,563.03,56.303000000000004,0.10000000000000002,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002759,12-1/2 Diameter Round Wall Clock,Furnishings,551.448,91.1088,0.16521739130434784,8,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001602,"Eldon Delta Triangular Chair Mat, 52"" x 58"", Clear",Furnishings,546.192,17.447799999999997,0.03194444444444444,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004018,Tensor Computer Mounted Lamp,Furnishings,536.04,144.7308,0.27,8,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003535,Howard Miller Distant Time Traveler Alarm Clock,Furnishings,531.948,192.2142,0.36134020618556706,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004952,"C-Line Cubicle Keepers Polyproplyene Holder w/Velcro Back, 8-1/2x11, 25/Bx",Furnishings,514.556,23.53819999999999,0.045744680851063806,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000758,DAX Natural Wood-Tone Poster Frame,Furnishings,513.712,123.9264,0.24123711340206186,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003623,"DataProducts Ampli Magnifier Task Lamp, Black,",Furnishings,508.728,99.5808,0.1957446808510638,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003039,"Howard Miller 11-1/2"" Diameter Grantwood Wall Clock",Furnishings,500.308,101.7868,0.20344827586206896,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000076,24-Hour Round Wall Clock,Furnishings,487.51200000000006,180.0198,0.3692622950819672,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004460,"Howard Miller 12"" Round Wall Clock",Furnishings,479.33799999999997,127.2996,0.2655737704918033,2,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001473,DAX Wood Document Frame,Furnishings,477.8039999999999,126.316,0.2643678160919541,9,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000305,"Tenex V2T-RE Standard Weight Series Chair Mat, 45"" x 53"", Lip 25"" x 12""",Furnishings,468.468,51.105599999999995,0.10909090909090907,3,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002878,"Seth Thomas 14"" Day/Date Wall Clock",Furnishings,467.072,162.0512,0.3469512195121951,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003374,Electrix Fluorescent Magnifier Lamps & Weighted Base,Furnishings,463.79600000000005,73.0232,0.15744680851063828,2,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001095,DAX Black Cherry Wood-Tone Poster Frame,Furnishings,455.456,61.43360000000001,0.13488372093023257,8,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000629,9-3/4 Diameter Round Wall Clock,Furnishings,455.06999999999994,183.1312,0.4024242424242425,8,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000222,"Seth Thomas 16"" Steel Case Clock",Furnishings,441.728,28.257600000000004,0.06397058823529413,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001588,"Deflect-o SuperTray Unbreakable Stackable Tray, Letter, Black",Furnishings,437.70000000000005,138.3132,0.31599999999999995,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001861,"Floodlight Indoor Halogen Bulbs, 1 Bulb per Pack, 60 Watts",Furnishings,434.56,197.104,0.4535714285714286,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-BO-10001619,O'Sullivan Cherrywood Estates Traditional Bookcase,Bookcases,424.90000000000003,27.193599999999996,0.06399999999999999,2,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002501,Nu-Dell Executive Frame,Furnishings,409.53600000000006,98.9712,0.2416666666666666,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004960,"Seth Thomas 12"" Clock w/ Goldtone Case",Furnishings,390.66,132.8244,0.33999999999999997,3,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002045,"Executive Impressions 14""",Furnishings,377.90999999999997,166.28040000000001,0.44000000000000006,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001473,"Eldon Executive Woodline II Desk Accessories, Mahogany",Furnishings,361.87199999999996,50.008700000000005,0.13819444444444448,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000521,"Seth Thomas 14"" Putty-Colored Wall Clock",Furnishings,357.94800000000004,94.76820000000001,0.2647540983606557,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004090,"Executive Impressions 14"" Contract Wall Clock",Furnishings,346.788,93.58829999999999,0.26987179487179486,7,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000397,Luxo Economy Swing Arm Lamp,Furnishings,338.98,94.91439999999999,0.27999999999999997,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001475,"Contract Clock, 14"", Brown",Furnishings,334.096,29.453200000000002,0.08815789473684212,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002379,Eldon Econocleat Chair Mats for Low Pile Carpets,Furnishings,331.76,39.8112,0.12,2,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003799,"Seth Thomas 13 1/2"" Wall Clock",Furnishings,316.48400000000004,71.11999999999999,0.22471910112359544,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004270,"Executive Impressions 13"" Clairmont Wall Clock",Furnishings,315.372,88.458,0.28048780487804875,8,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000087,"Executive Impressions 14"" Two-Color Numerals Wall Clock",Furnishings,308.99199999999996,94.5152,0.3058823529411765,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001057,Tensor Track Tree Floor Lamp,Furnishings,299.85,38.180899999999994,0.1273333333333333,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003347,Coloredge Poster Frame,Furnishings,298.2,116.29800000000002,0.39000000000000007,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002813,"DAX Contemporary Wood Frame with Silver Metal Mat, Desktop, 11 x 14 Size",Furnishings,291.45599999999996,97.152,0.33333333333333337,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003724,Westinghouse Clip-On Gooseneck Lamps,Furnishings,279.558,44.1936,0.15808383233532936,9,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001591,Advantus Panel Wall Certificate Holder - 8.5x11,Furnishings,270.84000000000003,108.092,0.3990990990990991,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001889,Ultra Door Pull Handle,Furnishings,265.104,74.7972,0.2821428571428572,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004093,Hand-Finished Solid Wood Document Frame,Furnishings,260.148,68.46000000000001,0.2631578947368421,3,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000672,"Executive Impressions 10"" Spectator Wall Clock",Furnishings,258.72,87.96480000000001,0.34,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004017,"Executive Impressions 13"" Chairman Wall Clock",Furnishings,253.8,72.333,0.285,3,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003878,"Linden 10"" Round Wall Clock, Black",Furnishings,253.648,41.8672,0.1650602409638554,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001934,Magnifier Swing Arm Lamp,Furnishings,251.76000000000002,65.4576,0.25999999999999995,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003577,Nu-Dell Leatherette Frames,Furnishings,246.64800000000002,81.4512,0.33023255813953484,3,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10002017,SAFCO Optional Arm Kit for Workspace Cribbage Stacking Chair,Chairs,245.088,14.918400000000002,0.060869565217391314,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000246,Aluminum Document Frame,Furnishings,244.39999999999998,56.212,0.23000000000000004,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000023,Eldon Wave Desk Accessories,Furnishings,236.77800000000002,88.35000000000001,0.373134328358209,9,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004053,DAX Two-Tone Silver Metal Document Frame,Furnishings,234.784,84.80560000000001,0.3612068965517242,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001940,Staple-based wall hangings,Furnishings,219.696,50.3072,0.2289855072463768,10,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001085,3M Polarizing Light Filter Sleeves,Furnishings,216.34,75.346,0.34827586206896555,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002445,"DAX Two-Tone Rosewood/Black Document Frame, Desktop, 5 x 7",Furnishings,216.144,73.944,0.34210526315789475,8,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003464,"Seth Thomas 8 1/2"" Cubicle Clock",Furnishings,210.912,59.217600000000004,0.28076923076923077,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-CH-10002317,Global Enterprise Series Seating Low-Back Swivel/Tilt Chairs,Chairs,207.184,25.898,0.125,1,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004351,Staple-based wall hangings,Furnishings,202.592,71.68639999999999,0.3538461538461538,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004864,Eldon 500 Class Desk Accessories,Furnishings,197.948,60.470699999999994,0.3054878048780487,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003976,"DAX Executive Solid Wood Document Frame, Desktop or Hang, Mahogany, 5 x 7",Furnishings,196.248,55.1004,0.28076923076923077,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004245,"Career Cubicle Clock, 8 1/4"", Black",Furnishings,194.68800000000002,68.952,0.35416666666666663,3,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004909,Contemporary Wood/Metal Frame,Furnishings,193.92000000000002,4.847999999999999,0.02499999999999999,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002364,"Eldon Expressions Wood Desk Accessories, Oak",Furnishings,183.024,10.110600000000002,0.05524193548387098,12,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003691,"Eldon Image Series Desk Accessories, Ebony",Furnishings,180.30999999999997,55.821999999999996,0.3095890410958904,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000221,"Master Caster Door Stop, Brown",Furnishings,176.78400000000002,49.3776,0.27931034482758615,9,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004671,"Executive Impressions 12"" Wall Clock",Furnishings,176.7,23.324400000000004,0.13200000000000003,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000010,"DAX Value U-Channel Document Frames, Easel Back",Furnishings,175.938,52.48320000000001,0.2983050847457628,10,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000448,Tenex Chairmats For Use With Carpeted Floors,Furnishings,175.78,8.789,0.049999999999999996,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002396,"DAX Copper Panel Document Frame, 5 x 7 Size",Furnishings,171.088,39.75279999999999,0.23235294117647057,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002088,Nu-Dell Float Frame 11 x 14 1/2,Furnishings,170.62,56.035199999999996,0.3284210526315789,7,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002671,Electrix 20W Halogen Replacement Bulb for Zoom-In Desk Lamp,Furnishings,168.84,78.256,0.4634920634920635,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001037,"DAX Charcoal/Nickel-Tone Document Frame, 5 x 7",Furnishings,168.744,48.822,0.28932584269662925,7,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002554,"Westinghouse Floor Lamp with Metal Mesh Shade, Black",Furnishings,167.92999999999998,38.62389999999999,0.22999999999999998,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003849,"DAX Metal Frame, Desktop, Stepped-Edge",Furnishings,161.92000000000002,26.1096,0.16124999999999998,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001487,"Eldon Expressions Wood and Plastic Desk Accessories, Cherry Wood",Furnishings,160.54,46.5566,0.29000000000000004,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000175,DAX Wood Document Frame.,Furnishings,159.268,7.6888000000000005,0.048275862068965524,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004963,"Eldon 400 Class Desk Accessories, Black Carbon",Furnishings,159.25,47.6,0.2989010989010989,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003798,"Ultra Door Kickplate, 8""H x 34""W",Furnishings,158.24,27.692,0.175,2,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002157,Artistic Insta-Plaque,Furnishings,156.8,61.152,0.38999999999999996,3,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003832,"Eldon Expressions Punched Metal & Wood Desk Accessories, Black & Cherry",Furnishings,155.708,20.636,0.1325301204819277,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000794,"Eldon Stackable Tray, Side-Load, Legal, Smoke",Furnishings,155.38,52.8292,0.34,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002456,"Master Caster Door Stop, Large Neon Orange",Furnishings,154.33599999999998,42.29679999999999,0.2740566037735849,7,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003142,"Master Big Foot Doorstop, Beige",Furnishings,152.06400000000002,42.767999999999994,0.28124999999999994,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003424,Nu-Dell Oak Frame,Furnishings,151.656,35.4576,0.23380281690140844,3,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003731,"Eldon Expressions Wood and Plastic Desk Accessories, Oak",Furnishings,149.70000000000002,41.916,0.27999999999999997,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002268,Ultra Door Push Plate,Furnishings,149.264,37.4142,0.2506578947368421,7,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000820,Tensor Brushed Steel Torchiere Floor Lamp,Furnishings,146.11399999999998,6.795999999999999,0.04651162790697675,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000719,"DAX Cubicle Frames, 8-1/2 x 11",Furnishings,145.69,52.4484,0.36,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000771,"Eldon 200 Class Desk Accessories, Smoke",Furnishings,138.16,58.0272,0.42000000000000004,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001918,C-Line Cubicle Keepers Polyproplyene Holder With Velcro Backings,Furnishings,137.17000000000002,47.7257,0.3479310344827586,8,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-TA-10001691,"Barricks Non-Folding Utility Table with Steel Legs, Laminate Tops",Tables,136.464,15.3522,0.1125,1,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002597,"C-Line Magnetic Cubicle Keepers, Clear Polypropylene",Furnishings,136.34400000000002,56.11840000000001,0.4115942028985507,7,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002960,"Eldon 200 Class Desk Accessories, Burgundy",Furnishings,135.648,44.588,0.3287037037037037,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000732,Eldon 200 Class Desk Accessories,Furnishings,133.136,39.18719999999999,0.29433962264150937,7,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001196,DAX Cubicle Frames - 8x10,Furnishings,125.786,20.772,0.16513761467889906,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000073,Deflect-O Glasstique Clear Desk Accessories,Furnishings,124.74,37.037,0.2969135802469136,3,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000260,"6"" Cubicle Wall Clock, Black",Furnishings,124.586,26.211599999999997,0.21038961038961038,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001867,"Eldon Expressions Punched Metal & Wood Desk Accessories, Pewter & Cherry",Furnishings,121.296,21.7056,0.17894736842105263,3,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004666,DAX Clear Channel Poster Frame,Furnishings,119.556,27.701999999999998,0.23170731707317072,3,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001706,Longer-Life Soft White Bulbs,Furnishings,115.192,44.7216,0.3882352941176471,10,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004848,DAX Solid Wood Frames,Furnishings,113.332,33.3157,0.2939655172413793,3,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004270,"Eldon Image Series Desk Accessories, Burgundy",Furnishings,111.18799999999999,28.2568,0.25413533834586466,8,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003194,"Eldon Expressions Desk Accessory, Wood Pencil Holder, Oak",Furnishings,108.08,6.755000000000001,0.06250000000000001,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001935,3M Hangers With Command Adhesive,Furnishings,108.03999999999999,36.001,0.33321917808219176,8,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003095,"Linden 12"" Wall Clock With Oak Frame",Furnishings,101.94,30.582,0.3,1,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000409,"GE 4 Foot Flourescent Tube, 40 Watt",Furnishings,98.868,42.2436,0.4272727272727273,3,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001424,Dax Clear Box Frame,Furnishings,96.03,15.364800000000002,0.16000000000000003,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001731,Acrylic Self-Standing Desk Frames,Furnishings,93.98400000000001,32.7342,0.3482954545454545,8,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000755,Eldon Expressions Mahogany Wood Desk Collection,Furnishings,93.6,23.4,0.25,2,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004020,Advantus Panel Wall Acrylic Frame,Furnishings,87.52,25.162,0.2875,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004712,"Westinghouse Mesh Shade Clip-On Gooseneck Lamp, Black",Furnishings,84.84,22.0584,0.25999999999999995,2,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002885,Magna Visual Magnetic Picture Hangers,Furnishings,84.832,28.052399999999995,0.33068181818181813,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003096,"Master Giant Foot Doorstop, Safety Yellow",Furnishings,83.49,31.5744,0.37818181818181823,3,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000320,OIC Stacking Trays,Furnishings,82.832,26.72,0.3225806451612903,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004586,G.E. Longer-Life Indoor Recessed Floodlight Bulbs,Furnishings,81.008,25.7632,0.31803278688524594,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004091,"Eldon 200 Class Desk Accessories, Black",Furnishings,75.36,28.6368,0.38,2,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000550,Stacking Trays by OIC,Furnishings,72.708,9.3126,0.12808219178082192,6,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001617,"Executive Impressions 8-1/2"" Career Panel/Partition Cubicle Clock",Furnishings,66.56,18.512,0.278125,2,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003829,Stackable Trays,Furnishings,65.296,17.1248,0.2622641509433962,7,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002874,Ultra Commercial Grade Dual Valve Door Closer,Furnishings,63.824,9.5736,0.15000000000000002,1,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002191,G.E. Halogen Desk Lamp Bulbs,Furnishings,62.82,22.8944,0.36444444444444446,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002111,"Master Caster Door Stop, Large Brown",Furnishings,59.696,14.56,0.24390243902439027,3,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002685,"Executive Impressions 13-1/2"" Indoor/Outdoor Wall Clock",Furnishings,56.099999999999994,21.317999999999998,0.38,2,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001025,"Eldon Imˆge Series Desk Accessories, Clear",Furnishings,53.46,6.3666,0.1190909090909091,3,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001847,Eldon Image Series Black Desk Accessories,Furnishings,48.852000000000004,17.0568,0.3491525423728813,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002963,"Master Caster Door Stop, Gray",Furnishings,47.752,14.224,0.2978723404255319,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10000206,"GE General Purpose, Extra Long Life, Showcase & Floodlight Incandescent Bulbs",Furnishings,45.396,14.55,0.32051282051282054,7,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002508,Document Clip Frames,Furnishings,45.036,16.0128,0.3555555555555555,2,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003026,"Eldon Regeneration Recycled Desk Accessories, Black",Furnishings,39.688,13.1164,0.3304878048780488,3,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002107,Eldon Pizzaz Desk Accessories,Furnishings,37.464000000000006,13.736799999999999,0.3666666666666666,4,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003489,Contemporary Borderless Frame,Furnishings,36.162,3.6162,0.1,2,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003274,Regeneration Desk Collection,Furnishings,35.904,15.2064,0.4235294117647059,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10001852,"Eldon Regeneration Recycled Desk Accessories, Smoke",Furnishings,33.756,8.9088,0.2639175257731959,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10003981,Eldon Wave Desk Accessories,Furnishings,29.952,10.6496,0.3555555555555555,5,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10004164,"Eldon 300 Class Desk Accessories, Black",Furnishings,29.7,13.068000000000001,0.44000000000000006,2,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
+FUR-FU-10002240,Nu-Dell EZ-Mount Plastic Wall Frames,Furnishings,19.7,0.7879999999999998,0.039999999999999994,2,Scale selectively,sales_threshold=1087.92; margin_threshold=0.0249; min_lines=3
